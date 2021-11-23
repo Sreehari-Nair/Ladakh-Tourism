@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Yaldevi&display=swap');
+
+body{
+    background-color: bisque;
+    font-family: 'Yaldevi', sans-serif;
+}
+
+a{
+    font-family: 'Yaldevi', sans-serif;
+    text-decoration: none;
+    color: darkred;
+}
